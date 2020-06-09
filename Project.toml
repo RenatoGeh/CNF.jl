@@ -1,0 +1,4 @@
+name = "CNF"
+uuid = "2ba3c97f-6464-4e69-8e7a-66acb08d39b4"
+authors = ["Renato Lui Geh <renatogeh@gmail.com>"]
+version = "0.1.0"
